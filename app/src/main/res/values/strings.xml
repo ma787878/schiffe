@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Schiffe versenken</string>
+    <string name="button_start">Spiel starten</string>
+    <string name="button_ende">Spiel beenden</string>
+    <string name="textfeld_nameEintragen">Hier den Namen eintragen</string>
+    <string name="button_weiter">Weiter</string>
+</resources>
