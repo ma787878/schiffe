@@ -1,7 +1,7 @@
 package de.rwth_aachen.informatik.schuelerlabor.schiffeversenken;
 
 //  Dieser auskommentierte Teil muss in die onCreate-Methode der HauptActivity kopiert werden.
-
+// Neuer Kommentar
 /*
         // initialisere Spiel
         spiel = new Spiel();
